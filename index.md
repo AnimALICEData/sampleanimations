@@ -12,7 +12,7 @@ This project generates 3D animations of particle collision events, from LHC's AL
 
 # Animations
 
-All clips below are compositions of animations generated with the following settings:
+All clips below are compositions of animations generated with the following settings, unless specified otherwise:
 
 --------------------------------------------
 Transparency Parameter: 1
