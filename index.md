@@ -5,3 +5,7 @@ Welcome to ALICE Blender Animation Webpage! This site was created with the inten
 # Description
 
 This project generates 3D animations of particle collision events, from LHC's ALICE detector, using data available at [CERN's Open Data Portal](http://opendata.cern.ch/). Several bits of code run in order to extract relevant information about the events, create animated scenes with Blender, a free and open source software for 3D modeling, and render them into videos. Check out the [Github repository](https://github.com/AnimALICEData/ALICE-Blender-Animation) for more information.
+
+<video width="320" height="240" controls>
+  <source src="media/Run139173_Orbit3658688_BunchCross3197_62_120FPS_Mosaic.mp4" type="video/mp4">
+</video>
