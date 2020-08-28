@@ -59,6 +59,8 @@ Maximum multiplicity: 50
   <source src="media/Low-Multi-Pb-Pb-1080p.mp4" type="video/mp4">
 </video>
 
+--------------------------------------------
+
 * Middle multiplicity
 
 Minimum multiplicity: 50
@@ -69,6 +71,8 @@ Maximum multiplicity: 2000
   <source src="media/Middle-Multi-Pb-Pb-1080p.mp4" type="video/mp4">
 </video>
 
+--------------------------------------------
+
 * High multiplicity
 
 Number of particles: 4957
@@ -76,6 +80,8 @@ Number of particles: 4957
 <video width="480" height="360" controls>
   <source src="media/High-Multi-Pb-Pb-1080p.mp4" type="video/mp4">
 </video>
+
+--------------------------------------------
 
 ### p-p
 
@@ -89,6 +95,8 @@ Maximum multiplicity: 50
   <source src="media/Low-Multi-p-p-1080p.mp4" type="video/mp4">
 </video>
 
+--------------------------------------------
+
 * Middle multiplicity
 
 Minimum multiplicity: 50
@@ -99,6 +107,8 @@ Maximum multiplicity: 2000
   <source src="media/Middle-Multi-p-p-1080p.mp4" type="video/mp4">
 </video>
 
+--------------------------------------------
+
 ## Samples with high average z-momentum (Pz)
 
 The following clips were generated with the setting of minimum average Pz (momentum in the z-direction) equal to 1.0 GeV/c. That means the average of the z-component momentum of all particles has absolute value greater than 1 GeV/c, which is likely to select events with boosts of particles to one side or another.
@@ -106,6 +116,8 @@ The following clips were generated with the setting of minimum average Pz (momen
 <video width="480" height="360" controls>
   <source src="media/High-Avg-Pz-1080p.mp4" type="video/mp4">
 </video>
+
+--------------------------------------------
 
 ## Sample with no detectors
 
@@ -115,6 +127,8 @@ This is a sample of a couple of clips with no detector parts.
   <source src="media/no-detector.mp4" type="video/mp4">
 </video>
 
+--------------------------------------------
+
 ## Different cameras
 
 These clips were generated with different cameras than the usual.
@@ -122,3 +136,5 @@ These clips were generated with different cameras than the usual.
 <video width="480" height="360" controls>
   <source src="media/Moving-2-3-4.mp4" type="video/mp4">
 </video>
+
+--------------------------------------------
