@@ -15,6 +15,20 @@
   * [Samples with detailed TPC](#samples-with-detailed-tpc)
   * [Sample with no detectors](#sample-with-no-detectors)
   * [Different cameras](#different-cameras)
+- [Video Descriptions](#video-descriptions)
+  * [Samples by type and multiplicity](#samples-by-type-and-multiplicity-1)
+    + [Pb-Pb 2.76 TeV Low Multiplicty](#pb-pb-276-tev-low-multiplicty-1)
+    + [Pb-Pb 2.76 TeV Mid Multiplicty](#pb-pb-276-tev-mid-multiplicty-1)
+    + [Pb-Pb 2.76 TeV High Multiplicty](#pb-pb-276-tev-high-multiplicty-1)
+    + [Pb-Pb 2.76 TeV Minimum Bias](#pb-pb-276-tev-minimum-bias-1)
+    + [p-p 7 TeV Low Multiplicty](#p-p-7-tev-low-multiplicty-1)
+    + [p-p 7 TeV Mid Multiplicty](#p-p-7-tev-mid-multiplicty-1)
+    + [p-p 7 TeV Minimum Bias](#p-p-7-tev-minimum-bias-1)
+  * [Samples with high average z-momentum (Pz)](#samples-with-high-average-z-momentum--pz--1)
+  * [Samples with detailed TPC](#samples-with-detailed-tpc-1)
+  * [Sample with no detectors](#sample-with-no-detectors-1)
+  * [Different cameras](#different-cameras-1)
+  * [General Settings](#general-settings)
 
 # Welcome!
 
