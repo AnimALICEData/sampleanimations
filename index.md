@@ -146,10 +146,6 @@ Check below for further information on each category.
 
 --------------------------------------------
 
-###
-SEPARATION
-###
-
 # Video Descriptions
 
 ## Samples by type and multiplicity
